@@ -1,5 +1,6 @@
 How Much Did It Rain? II
 =================
+website: http://simaaron.github.io/Estimating-rainfall-from-weather-radar-readings-using-recurrent-neural-networks/
 Kaggle competition winning solution
 -----------------------------
 This document describes how to generate the winning solution to the Kaggle competition [*How Much Did It Rain? II*](https://www.kaggle.com/c/how-much-did-it-rain-ii).
